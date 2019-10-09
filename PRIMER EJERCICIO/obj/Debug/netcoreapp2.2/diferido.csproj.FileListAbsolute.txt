@@ -1,0 +1,22 @@
+C:\Users\Usuario\Documents\diferido\bin\Debug\netcoreapp2.2\diferido.deps.json
+C:\Users\Usuario\Documents\diferido\bin\Debug\netcoreapp2.2\diferido.runtimeconfig.json
+C:\Users\Usuario\Documents\diferido\bin\Debug\netcoreapp2.2\diferido.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\diferido\bin\Debug\netcoreapp2.2\diferido.dll
+C:\Users\Usuario\Documents\diferido\bin\Debug\netcoreapp2.2\diferido.pdb
+C:\Users\Usuario\Documents\diferido\obj\Debug\netcoreapp2.2\diferido.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\diferido\obj\Debug\netcoreapp2.2\diferido.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\diferido\obj\Debug\netcoreapp2.2\diferido.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\diferido\obj\Debug\netcoreapp2.2\diferido.AssemblyInfo.cs
+C:\Users\Usuario\Documents\diferido\obj\Debug\netcoreapp2.2\diferido.dll
+C:\Users\Usuario\Documents\diferido\obj\Debug\netcoreapp2.2\diferido.pdb
+C:\Users\Usuario\Documents\diferido\PRIMER EJERCICIO\bin\Debug\netcoreapp2.2\diferido.deps.json
+C:\Users\Usuario\Documents\diferido\PRIMER EJERCICIO\bin\Debug\netcoreapp2.2\diferido.runtimeconfig.json
+C:\Users\Usuario\Documents\diferido\PRIMER EJERCICIO\bin\Debug\netcoreapp2.2\diferido.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\diferido\PRIMER EJERCICIO\bin\Debug\netcoreapp2.2\diferido.dll
+C:\Users\Usuario\Documents\diferido\PRIMER EJERCICIO\bin\Debug\netcoreapp2.2\diferido.pdb
+C:\Users\Usuario\Documents\diferido\PRIMER EJERCICIO\obj\Debug\netcoreapp2.2\diferido.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\diferido\PRIMER EJERCICIO\obj\Debug\netcoreapp2.2\diferido.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\diferido\PRIMER EJERCICIO\obj\Debug\netcoreapp2.2\diferido.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\diferido\PRIMER EJERCICIO\obj\Debug\netcoreapp2.2\diferido.AssemblyInfo.cs
+C:\Users\Usuario\Documents\diferido\PRIMER EJERCICIO\obj\Debug\netcoreapp2.2\diferido.dll
+C:\Users\Usuario\Documents\diferido\PRIMER EJERCICIO\obj\Debug\netcoreapp2.2\diferido.pdb

@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\diferido\SEGUNDO EJERCICIO\bin\Debug\netcoreapp2.2\SEGUNDO EJERCICIO.deps.json
+C:\Users\Usuario\Documents\diferido\SEGUNDO EJERCICIO\bin\Debug\netcoreapp2.2\SEGUNDO EJERCICIO.runtimeconfig.json
+C:\Users\Usuario\Documents\diferido\SEGUNDO EJERCICIO\bin\Debug\netcoreapp2.2\SEGUNDO EJERCICIO.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\diferido\SEGUNDO EJERCICIO\bin\Debug\netcoreapp2.2\SEGUNDO EJERCICIO.dll
+C:\Users\Usuario\Documents\diferido\SEGUNDO EJERCICIO\bin\Debug\netcoreapp2.2\SEGUNDO EJERCICIO.pdb
+C:\Users\Usuario\Documents\diferido\SEGUNDO EJERCICIO\obj\Debug\netcoreapp2.2\SEGUNDO EJERCICIO.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\diferido\SEGUNDO EJERCICIO\obj\Debug\netcoreapp2.2\SEGUNDO EJERCICIO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\diferido\SEGUNDO EJERCICIO\obj\Debug\netcoreapp2.2\SEGUNDO EJERCICIO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\diferido\SEGUNDO EJERCICIO\obj\Debug\netcoreapp2.2\SEGUNDO EJERCICIO.AssemblyInfo.cs
+C:\Users\Usuario\Documents\diferido\SEGUNDO EJERCICIO\obj\Debug\netcoreapp2.2\SEGUNDO EJERCICIO.dll
+C:\Users\Usuario\Documents\diferido\SEGUNDO EJERCICIO\obj\Debug\netcoreapp2.2\SEGUNDO EJERCICIO.pdb
